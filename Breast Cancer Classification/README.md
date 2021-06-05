@@ -7,5 +7,5 @@ There are 2 types of tumers in breast cancer which are..
     2.Benign(does not spreads faster in body)                 
 
 The Benign Means to the Non-Presence of cancer in the patient. We will use SVM-classifier to classify the type of cancer.       
-We use different features of tumer such as RADIUS, TEXTURE, PERIMETER, AREA, SMOOTHNESS
+We use different features of tumer such as RADIUS, TEXTURE, PERIMETER, AREA, SMOOTHNESS, etc.
 
